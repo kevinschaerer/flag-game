@@ -1,4 +1,4 @@
-import { supa } from "/assets/js/supa.js";
+import { supa } from "/supabase/functions/supa/index.ts";
 
 // Initialize variables
 let contentList = "";
